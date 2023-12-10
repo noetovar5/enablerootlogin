@@ -1,4 +1,4 @@
-# enablerootlogin
+# enablerootlogin    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.enablerootlogin"/>
 enable root login over ssh
 Enable root login over SSH
 
